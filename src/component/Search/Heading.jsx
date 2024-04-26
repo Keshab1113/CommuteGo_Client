@@ -1,5 +1,4 @@
 import React from 'react'
-import video from '/header.mp4'
 const Heading = () => {
     return (
         <div className="  w-full h-screen flex justify-center items-center sm:flex-row flex-col-reverse">
